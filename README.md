@@ -1,6 +1,8 @@
 # Get-Ready-For-Earthquake-Istanbul
 
 The aim of this project is to simulate an earthquake that is expected to occur in Istanbul, to determine what to expect as a result and to determine the precautions to be taken until the earthquake occurs.
+### Tableau Public Link
+https://public.tableau.com/app/profile/ahmet.yazgan/viz/DepremeHazirOl/DEPREM-IL
 
 ![image](https://github.com/AhmetYazgan/Get-Ready-For-Earthquake-Istanbul-/assets/130467590/65f781f8-927d-41b4-9dd9-0b373885ad33)
 
